@@ -39,22 +39,21 @@ a:hover{
     box-shadow: 0 3px 5px #606060;
 }
 
-#first{
+main section{
     height: 100vh;
-    background-color: rgb(234, 51, 35);
     position: relative;
+}
+
+#first{
+    background-color: rgb(234, 51, 35);  
 }
 
 #second{
-    height: 100vh;
     background-color: rgb(56, 126, 34);
-    position: relative;
 }
 
 #third{
-    height: 100vh;
     background-color: rgb(255, 255, 84);
-    position: relative;
 }
 
 .sezioni{
